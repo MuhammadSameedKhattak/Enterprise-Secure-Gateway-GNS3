@@ -22,7 +22,7 @@ Real-world deployments rarely go perfectly. During this lab, I successfully debu
 
 ## 📊 Proof of Concept
 ### NAT Translation Matrix
-https://github.com/MuhammadSameedKhattak/Enterprise-Secure-Gateway-GNS3/blob/main/ping.png?raw=true
+![NAT Proof](https://raw.githubusercontent.com/MuhammadSameedKhattak/Enterprise-Secure-Gateway-GNS3/main/validation/NAT-Matrix.png)
 *Caption: Active PAT table confirming successful translation of the Inside Local IP to the Inside Global IP.*
 
 ### Firewall ACL Hit Counters
