@@ -26,5 +26,5 @@ Real-world deployments rarely go perfectly. During this lab, I successfully debu
 *Caption: Active PAT table confirming successful translation of the Inside Local IP to the Inside Global IP.*
 
 ### Firewall ACL Hit Counters
-![ACL Proof](https://raw.githubusercontent.com/MuhammadSameedKhattak/Enterprise-Secure-Gateway-GNS3/main/validation/ACL-Hits.png)
+![ACL Proof](https://github.com/MuhammadSameedKhattak/Enterprise-Secure-Gateway-GNS3/blob/main/firewalldenial.png?raw=true)
 *Caption: Validation of ACL 100 actively dropping unauthorized external ICMP requests to the internal LAN.*
