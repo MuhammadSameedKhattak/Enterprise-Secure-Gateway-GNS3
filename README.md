@@ -4,8 +4,7 @@
 Designed and deployed a secure enterprise network boundary using Cisco IOS within GNS3. The architecture physically and logically separates traffic into three distinct security zones (Inside, Outside, and DMZ) to protect internal assets while hosting public-facing services.
 
 ## 🏗️ Topology & Architecture
-https://github.com/MuhammadSameedKhattak/Enterprise-Secure-Gateway-GNS3/blob/main/GNS3diagram.png?raw=true
-
+![Network Topology](https://raw.githubusercontent.com/MuhammadSameedKhattak/Enterprise-Secure-Gateway-GNS3/main/diagrams/GNS3diagram.png)
 **Network Zones:**
 * **Inside (192.168.10.0/24):** Secured employee network.
 * **DMZ (172.16.1.0/24):** Public-facing web server zone.
